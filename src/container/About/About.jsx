@@ -19,7 +19,7 @@ const About = () => {
   return (
     <>
       <h2 className="head-text">
-        Learning to code <span>Is Useful</span> <br />
+        to code <span>Is Useful</span> <br />
         no matter what <span> your career ambitions are</span>
       </h2>
 
